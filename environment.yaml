@@ -1,6 +1,6 @@
-name: i15-1
+name: test-for-binder
 channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - xraylib
+  - numpy
