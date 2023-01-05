@@ -1,0 +1,6 @@
+name: i15-1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xraylib
